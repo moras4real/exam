@@ -11,7 +11,10 @@ a {
     border: 2px solid white;
     width: 1350px;
     height: 200px;
-    display: flex; 
-    spa 
+    display: flex;   
+    justify-content: space-around;
+    
+}
+img {
     
 }
